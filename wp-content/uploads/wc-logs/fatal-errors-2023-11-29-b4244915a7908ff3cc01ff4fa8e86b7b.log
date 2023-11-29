@@ -1,0 +1,4 @@
+2023-11-29T09:48:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\Wamp\www\fitness\wp-admin\includes\class-wp-filesystem-direct.php on line 347
+
+2023-11-29T09:48:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\Wamp\www\fitness\wp-includes\Requests\src\Transport\Curl.php on line 506
+
